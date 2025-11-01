@@ -1,0 +1,19 @@
+int = 5
+float = 5.0 8757549848
+bool = true/false
+str = "Fpi"
+list =[42,"name",true,5.0 dic:{
+    "name":"hamza",
+    "age":21,
+    "dpt": "cst"
+
+}]
+tupe = (2,4,6,78) # NO change
+Dictionary = dic:{
+    "name":"hamza",
+    "age":21,
+    "dpt": "cst"
+
+}
+
+tupe = {2,4,6,78} 

@@ -1,0 +1,10 @@
+                 python e fiel change
+COMPUTER_GALLERY@DESKTOP-V8KEDUJ MINGW64 /c/Python/Calcultor/Problems
+$ cd ..        (back, ager file e jabe)
+COMPUTER_GALLERY@DESKTOP-V8KEDUJ MINGW64 /c/Python/Calcultor
+$ cd Function  (akoi folder er moddhe ek folder theke ar     ek          folder e jabe)
+COMPUTER_GALLERY@DESKTOP-V8KEDUJ MINGW64 /c/Python/Calcultor/Function
+
+
+            cd c:\usersName\ProjectsName
+
